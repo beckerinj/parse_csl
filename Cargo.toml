@@ -1,0 +1,12 @@
+[package]
+name = "parse_csl"
+version = "0.1.0"
+edition = "2021"
+authors = ["MoghTech"]
+description = "parse comma seperated lists into generic type which implements FromStr"
+repository = "https://github.com/mbecker20/parse_csl"
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
